@@ -20,4 +20,4 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-https://YOUR_USERNAME.github.io/portfolio/
+https://harsh0314-cloud.github.io/portfolio-web/
